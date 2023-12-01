@@ -74,8 +74,7 @@ Here are some ideas to get you started:
     </tr>
     <tr>
         <td align="center">  
-            <img width="650" height="500" alt="Instagram Clone" src="https://github.com/DavidAriias/instagram/assets/112224260/b6aec5a1-548a-49de-8a17-f835d20115f3">
-        </td>
+           <img width="650"  height="500" alt="image" src="https://github.com/DavidAriias/instagram/assets/112224260/b6aec5a1-548a-49de-8a17-f835d20115f3">
         <td>
             <ul>
                 <li><strong>Project Description (In Progress):</strong></li>

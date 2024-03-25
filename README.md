@@ -43,7 +43,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,kotlin,react,typescript,cs,azure,mongo,postgresql,github,git,bitbucket,docker,postman,graphql,visualstudio,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,kotlin,azure,mongo,postgresql,github,git,bitbucket,docker,postman,graphql,visualstudio,vscode&perline=14" />
   </a>
 </p>
 
